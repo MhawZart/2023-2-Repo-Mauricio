@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Merriweather', serif;
+    color: #686464;
+}
+header.cabeceraPrincipal{
+    background-color: blue;
+    color: #fff;
+    width: 90%;
+    margin: 1em 1em 1em 5em;
+}
+.cabeceraPrincipal h1{
+    font-family: sans-serif;
+    padding: 10px 50px;
+}
+nav.menuPrincipal{
+    background-color: blue;
+    color:#312f2f;
+    width: 90%;
+    margin: 0 auto;
+    
+}
