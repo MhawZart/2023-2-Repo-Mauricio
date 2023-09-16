@@ -1,0 +1,72 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mooli&family=Raleway:wght@100;200;300;400&display=swap');
+
+
+body {
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    font-family: 'Mooli', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+header {
+    text-align: center;
+}
+
+.product-info {
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    
+}
+
+
+.product-details {
+    text-align: center; 
+}
+
+
+.product-details > * {
+    margin: 10px 0;
+}
+
+
+button {
+    background-color:#ADD500; 
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 100px;
+    font-family: 'Mooli', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+
+button:hover {
+    background-color: #4fe872; 
+}
+
+.discount {
+    display: inline-block;
+    background-color: #ff0000; 
+    color: white;
+    padding: 5px 1px;
+    border-radius: 10px;
+    margin-left: 100px;
+}
+h4{
+    text-decoration:line-through;    
+}
+h3{
+    text-align: center;
+    content:\2713\0020;
+}
+
+
